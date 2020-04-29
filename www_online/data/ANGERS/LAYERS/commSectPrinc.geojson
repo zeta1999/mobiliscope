@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "49050", "NOM_COM": "BRISSAC-QUINCE", "STATUT": "Commune simple", "CODE_DEPT": "49", "LIBGEO": "Brissac-Quincé", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "ANGERS" }, "geometry": { "type": "Point", "coordinates": [ -0.440622052580278, 47.342626909694836 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "49246", "NOM_COM": "LES PONTS-DE-CE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "49", "LIBGEO": "Les Ponts-de-Cé", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ANGERS" }, "geometry": { "type": "Point", "coordinates": [ -0.512724670198164, 47.427155750413661 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "49110", "NOM_COM": "CORZE", "STATUT": "Commune simple", "CODE_DEPT": "49", "LIBGEO": "Corzé", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "ANGERS" }, "geometry": { "type": "Point", "coordinates": [ -0.368926504735078, 47.54257284616412 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "49214", "NOM_COM": "MONTREUIL-JUIGNE", "STATUT": "Commune simple", "CODE_DEPT": "49", "LIBGEO": "Montreuil-Juigné", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "ANGERS" }, "geometry": { "type": "Point", "coordinates": [ -0.615941867556116, 47.541338347881911 ] } }
+]
+}

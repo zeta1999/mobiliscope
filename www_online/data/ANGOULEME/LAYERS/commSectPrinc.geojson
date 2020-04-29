@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "16187", "NOM_COM": "LINARS", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "16", "LIBGEO": "Linars", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ANGOULEME" }, "geometry": { "type": "Point", "coordinates": [ 0.0744436717771, 45.653632157065488 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "16113", "NOM_COM": "LA COURONNE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "16", "LIBGEO": "La Couronne", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ANGOULEME" }, "geometry": { "type": "Point", "coordinates": [ 0.109211064341042, 45.609592108793649 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "16287", "NOM_COM": "ROULLET-SAINT-ESTEPHE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "16", "LIBGEO": "Roullet-Saint-Estèphe", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "ANGOULEME" }, "geometry": { "type": "Point", "coordinates": [ 0.031150858106676, 45.580498519214494 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "16291", "NOM_COM": "RUELLE-SUR-TOUVRE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "16", "LIBGEO": "Ruelle-sur-Touvre", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ANGOULEME" }, "geometry": { "type": "Point", "coordinates": [ 0.230124055709326, 45.683547833854185 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "16154", "NOM_COM": "GOND-PONTOUVRE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "16", "LIBGEO": "Gond-Pontouvre", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ANGOULEME" }, "geometry": { "type": "Point", "coordinates": [ 0.165492726136603, 45.679237354713983 ] } }
+]
+}

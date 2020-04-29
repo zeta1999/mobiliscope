@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LIBGEO": "Poulx", "CODE_INSEE": "30206" }, "geometry": { "type": "Point", "coordinates": [ 4.42003146689941, 43.907381092900422 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Marguerittes", "CODE_INSEE": "30156" }, "geometry": { "type": "Point", "coordinates": [ 4.449324764397287, 43.861307390697178 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Générac", "CODE_INSEE": "30128" }, "geometry": { "type": "Point", "coordinates": [ 4.348523907715555, 43.729445539624713 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Milhaud", "CODE_INSEE": "30169" }, "geometry": { "type": "Point", "coordinates": [ 4.308983680404768, 43.789395707025854 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Uchaud", "CODE_INSEE": "30333" }, "geometry": { "type": "Point", "coordinates": [ 4.269115406069933, 43.75655021364814 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Calvisson", "CODE_INSEE": "30062" }, "geometry": { "type": "Point", "coordinates": [ 4.191053056769693, 43.784335496624927 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Clarensac", "CODE_INSEE": "30082" }, "geometry": { "type": "Point", "coordinates": [ 4.225700396553508, 43.823859272029658 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Montpezat", "CODE_INSEE": "30182" }, "geometry": { "type": "Point", "coordinates": [ 4.159270809130684, 43.854056654097057 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Moulézan", "CODE_INSEE": "30183" }, "geometry": { "type": "Point", "coordinates": [ 4.125380309891106, 43.930479239082096 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Saint-Geniès-de-Malgoirès", "CODE_INSEE": "30255" }, "geometry": { "type": "Point", "coordinates": [ 4.215500751004558, 43.945507446790188 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Saint-Chaptes", "CODE_INSEE": "30241" }, "geometry": { "type": "Point", "coordinates": [ 4.278162767974279, 43.970973677754721 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Sernhac", "CODE_INSEE": "30317" }, "geometry": { "type": "Point", "coordinates": [ 4.551780388259776, 43.910860174053767 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Bouillargues", "CODE_INSEE": "30047" }, "geometry": { "type": "Point", "coordinates": [ 4.426865390325026, 43.799567628977847 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Manduel", "CODE_INSEE": "30155" }, "geometry": { "type": "Point", "coordinates": [ 4.471785535034652, 43.817441992801172 ] } },
+{ "type": "Feature", "properties": { "LIBGEO": "Saint-Gilles", "CODE_INSEE": "30258" }, "geometry": { "type": "Point", "coordinates": [ 4.431342866776703, 43.677546440883489 ] } }
+]
+}

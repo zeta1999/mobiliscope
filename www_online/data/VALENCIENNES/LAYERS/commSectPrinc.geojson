@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "59032", "NOM_COM": "AULNOY-LEZ-VALENCIENNES", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Aulnoy-lez-Valenciennes", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "VALENCIENNES" }, "geometry": { "type": "Point", "coordinates": [ 3.538478965442599, 50.325677545737236 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59383", "NOM_COM": "MARLY", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Marly", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "VALENCIENNES" }, "geometry": { "type": "Point", "coordinates": [ 3.548971957490056, 50.345330256583409 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59014", "NOM_COM": "ANZIN", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Anzin", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "VALENCIENNES" }, "geometry": { "type": "Point", "coordinates": [ 3.510703198713405, 50.375257378349403 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59526", "NOM_COM": "SAINT-AMAND-LES-EAUX", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Saint-Amand-les-Eaux", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "VALENCIENNES" }, "geometry": { "type": "Point", "coordinates": [ 3.444389575505035, 50.440145968785963 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59172", "NOM_COM": "DENAIN", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Denain", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "VALENCIENNES" }, "geometry": { "type": "Point", "coordinates": [ 3.389887530012226, 50.330460457457065 ] } }
+]
+}

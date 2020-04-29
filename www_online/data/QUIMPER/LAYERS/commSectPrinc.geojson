@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "29058", "NOM_COM": "FOUESNANT", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Fouesnant", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -4.017613844566212, 47.878815923293871 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29174", "NOM_COM": "PLONEOUR-LANVERN", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Plonéour-Lanvern", "CATAEU2010": "300", "VC": "non", "ZONAGE_COM": "1", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -4.265410406569507, 47.908645690795879 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29039", "NOM_COM": "CONCARNEAU", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Concarneau", "CATAEU2010": "211", "VC": "non", "ZONAGE_COM": "2", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -3.907490657665349, 47.89615953548882 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29150", "NOM_COM": "MOELAN-SUR-MER", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Moëlan-sur-Mer", "CATAEU2010": "300", "VC": "non", "ZONAGE_COM": "1", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -3.64581548110749, 47.806292702673375 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29020", "NOM_COM": "BRIEC", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Briec", "CATAEU2010": "120", "VC": "non", "ZONAGE_COM": "1", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -4.020389547179785, 48.093740779726474 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29046", "NOM_COM": "DOUARNENEZ", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Douarnenez", "CATAEU2010": "211", "VC": "non", "ZONAGE_COM": "2", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -4.328196964876351, 48.080165867239174 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29026", "NOM_COM": "CHATEAULIN", "STATUT": "Sous-préfecture", "CODE_DEPT": "29", "LIBGEO": "Châteaulin", "CATAEU2010": "221", "VC": "non", "ZONAGE_COM": "2", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -4.073294397416425, 48.203259803753369 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29233", "NOM_COM": "QUIMPERLE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Quimperlé", "CATAEU2010": "211", "VC": "non", "ZONAGE_COM": "2", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -3.555814039356358, 47.856384798212162 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "29220", "NOM_COM": "PONT-L'ABBE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "29", "LIBGEO": "Pont-l'Abbé", "CATAEU2010": "211", "VC": "non", "ZONAGE_COM": "2", "enquete": "QUIMPER" }, "geometry": { "type": "Point", "coordinates": [ -4.218341797344288, 47.865711655870861 ] } }
+]
+}

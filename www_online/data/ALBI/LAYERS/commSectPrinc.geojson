@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "81284", "NOM_COM": "LE SEQUESTRE", "STATUT": "Commune simple", "CODE_DEPT": "81", "LIBGEO": "Le Sequestre", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ALBI" }, "geometry": { "type": "Point", "coordinates": [ 2.106738286367599, 43.910566846450081 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "81257", "NOM_COM": "SAINT-JUERY", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "81", "LIBGEO": "Saint-Juéry", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ALBI" }, "geometry": { "type": "Point", "coordinates": [ 2.223339402952589, 43.939750034430588 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "81218", "NOM_COM": "PUYGOUZON", "STATUT": "Commune simple", "CODE_DEPT": "81", "LIBGEO": "Puygouzon", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "ALBI" }, "geometry": { "type": "Point", "coordinates": [ 2.169138357331406, 43.889262263365104 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "81156", "NOM_COM": "MARSSAC-SUR-TARN", "STATUT": "Commune simple", "CODE_DEPT": "81", "LIBGEO": "Marssac-sur-Tarn", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "ALBI" }, "geometry": { "type": "Point", "coordinates": [ 2.03617573966711, 43.910539640852186 ] } }
+]
+}

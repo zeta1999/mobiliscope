@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "22050", "NOM_COM": "DINAN", "STATUT": "Sous-préfecture", "CODE_DEPT": "22", "LIBGEO": "Dinan", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "RENNES" }, "geometry": { "type": "Point", "coordinates": [ -2.047797270868779, 48.455198415521608 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "35236", "NOM_COM": "REDON", "STATUT": "Sous-préfecture", "CODE_DEPT": "35", "LIBGEO": "Redon", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "RENNES" }, "geometry": { "type": "Point", "coordinates": [ -2.080223808312998, 47.661303867343165 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "35115", "NOM_COM": "FOUGERES", "STATUT": "Sous-préfecture", "CODE_DEPT": "35", "LIBGEO": "Fougères", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "RENNES" }, "geometry": { "type": "Point", "coordinates": [ -1.194946740883207, 48.352600794567742 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "35288", "NOM_COM": "SAINT-MALO", "STATUT": "Sous-préfecture", "CODE_DEPT": "35", "LIBGEO": "Saint-Malo", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "RENNES" }, "geometry": { "type": "Point", "coordinates": [ -1.980826463652383, 48.639741712811727 ] } }
+]
+}

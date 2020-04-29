@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "34003", "NOM_COM": "AGDE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "34", "LIBGEO": "Agde", "CATAEU2010": "211", "VC": "non", "ZONAGE_COM": "2", "enquete": "BEZIERS" }, "geometry": { "type": "Point", "coordinates": [ 3.484548826414622, 43.309426917017667 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "34069", "NOM_COM": "CAZOULS-LES-BEZIERS", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "34", "LIBGEO": "Cazouls-lès-Béziers", "CATAEU2010": "112", "VC": "non", "ZONAGE_COM": "1", "enquete": "BEZIERS" }, "geometry": { "type": "Point", "coordinates": [ 3.099505264431487, 43.397815143703994 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "34199", "NOM_COM": "PEZENAS", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "34", "LIBGEO": "Pézenas", "CATAEU2010": "211", "VC": "non", "ZONAGE_COM": "2", "enquete": "BEZIERS" }, "geometry": { "type": "Point", "coordinates": [ 3.415627072379781, 43.463462130899948 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "34284", "NOM_COM": "SAINT-PONS-DE-THOMIERES", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "34", "LIBGEO": "Saint-Pons-de-Thomières", "CATAEU2010": "400", "VC": "non", "ZONAGE_COM": "1", "enquete": "BEZIERS" }, "geometry": { "type": "Point", "coordinates": [ 2.748617777396342, 43.478532474630349 ] } }
+]
+}

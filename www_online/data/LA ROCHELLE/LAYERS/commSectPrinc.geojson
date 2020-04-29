@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "17094", "NOM_COM": "CHATELAILLON-PLAGE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "17", "LIBGEO": "Châtelaillon-Plage", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LA ROCHELLE" }, "geometry": { "type": "Point", "coordinates": [ -1.082957320022557, 46.072197475921158 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "17142", "NOM_COM": "DOMPIERRE-SUR-MER", "STATUT": "Commune simple", "CODE_DEPT": "17", "LIBGEO": "Dompierre-sur-Mer", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LA ROCHELLE" }, "geometry": { "type": "Point", "coordinates": [ -1.068512825227304, 46.184117365538114 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "17200", "NOM_COM": "LAGORD", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "17", "LIBGEO": "Lagord", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LA ROCHELLE" }, "geometry": { "type": "Point", "coordinates": [ -1.152601911963197, 46.18686676856511 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "17028", "NOM_COM": "AYTRE", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "17", "LIBGEO": "Aytré", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LA ROCHELLE" }, "geometry": { "type": "Point", "coordinates": [ -1.113272420437245, 46.134524387004355 ] } }
+]
+}

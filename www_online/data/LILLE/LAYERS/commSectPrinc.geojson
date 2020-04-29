@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "commSectPrinc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INSEE_COM": "59163", "NOM_COM": "CROIX", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Croix", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 3.1550228741538, 50.673813840989745 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59017", "NOM_COM": "ARMENTIERES", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Armentières", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 2.880395742052477, 50.691377642101784 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59220", "NOM_COM": "FACHES-THUMESNIL", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Faches-Thumesnil", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 3.072447617862061, 50.59414648498948 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59328", "NOM_COM": "LAMBERSART", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Lambersart", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 3.024998872002574, 50.652049436667753 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59599", "NOM_COM": "TOURCOING", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Tourcoing", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 3.159902513040103, 50.725947500412516 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59512", "NOM_COM": "ROUBAIX", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Roubaix", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 3.18165046953735, 50.688240670733975 ] } },
+{ "type": "Feature", "properties": { "INSEE_COM": "59009", "NOM_COM": "VILLENEUVE-D'ASCQ", "STATUT": "Chef-lieu de canton", "CODE_DEPT": "59", "LIBGEO": "Villeneuve-d'Ascq", "CATAEU2010": "111", "VC": "non", "ZONAGE_COM": "2", "enquete": "LILLE" }, "geometry": { "type": "Point", "coordinates": [ 3.152844062304086, 50.632257825815088 ] } }
+]
+}
